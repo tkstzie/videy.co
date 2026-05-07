@@ -1,1 +1,1 @@
-# videy.co
+# video.co
